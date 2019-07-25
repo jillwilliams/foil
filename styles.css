@@ -1,0 +1,67 @@
+body {
+  background-color: black;
+}
+
+/* TEXT-     CALCULATING THE PRODUCT... */
+h2 {
+  color: yellow;
+  font-size: 1rem;
+  margin: 15px;
+  display: block;
+  letter-spacing: 2px;
+}
+/* INPUT TEXT BOX     VARIABLE A */
+#varA {
+  width: 2.5rem;
+  height: 2.5rem;
+  color: black;
+  font-size: 1.5rem;
+  padding: 2px;
+  text-align: center;
+  overflow: hidden;
+  border: 3px black solid;
+  outline: 1px white solid;
+  background-color: ivory;
+}
+/* INPUT TEXT BOX     VARIABLE B */
+#varB {
+  width: 2.5rem;
+  height: 2.5rem;
+  color: black;
+  font-size: 1.5rem;
+  padding: 2px;
+  text-align: center;
+  overflow: hidden;
+  border: 3px black solid;
+  outline: 1px white solid;
+  background-color: ivory;
+}
+/* TEXT-BOX   ENTER IN VARIABLES A AND B */
+#inputs {
+  display: block;
+  font-size: 1.3rem;
+}
+/* BUTTON:    THE SUBMIT BUTTON FOR THE ANSWER */
+#submitButton {
+  width: 6rem;
+  height: 3rem;
+  padding: 10px;
+  font-size: 1.3rem;
+  color: black;
+  margin-left: 25px;
+  border: 1px black solid;
+  outline: 2px yellow solid;
+  background-color: ivory;
+}
+#foilAnswer {
+  width: 12rem;
+  height: 2rem;
+  font-size: 1.5rem;
+  color: black;
+  border: 1px black solid;
+  outline: 2px yellow solid;
+  background-color: ivory;
+  margin-left: 25px;
+  text-align: center;
+  padding: 7px;
+}
